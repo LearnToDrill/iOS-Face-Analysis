@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035649510561",
+    "project_id": "faceanalysis-edf92",
+    "storage_bucket": "faceanalysis-edf92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035649510561:android:e308244d14e274efeed4e0",
+        "android_client_info": {
+          "package_name": "com.smartmirror.face_analysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035649510561-ctt4dheog66hbvpv0210mhsb0mcoh5ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmzoDXdnG7puu3B7yWGXXluZvWWvEfcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035649510561-ctt4dheog66hbvpv0210mhsb0mcoh5ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

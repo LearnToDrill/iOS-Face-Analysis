@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1035649510561-ilvob1e5l5i8ef00urbq2p9rvus03b14.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1035649510561-ilvob1e5l5i8ef00urbq2p9rvus03b14</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1035649510561-fgd07tjf53rsbmsvka6hbvrq2hqghmro.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCermxAojcc58aos9uTZS3PsfhbO4jd3t8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1035649510561</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.emedsim.faceAnalysis</string>
+	<key>PROJECT_ID</key>
+	<string>faceanalysis-edf92</string>
+	<key>STORAGE_BUCKET</key>
+	<string>faceanalysis-edf92.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1035649510561:ios:d97f6fb0408f5720eed4e0</string>
+</dict>
+</plist>
